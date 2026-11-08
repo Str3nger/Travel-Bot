@@ -1,13 +1,4 @@
 .env
 venv/
-__pycache__
+__pycache__/
 *.pyc
-git init 
-git add Dockerfile 
-git commit -m "Aggiunto Dockerfile per il deployment" 
-git push origin main
-git add . 
-git commit -m "Primo commit - Travel Bot" 
-git branch -M main 
-git remote add origin [suspicious link removed] 
-git push -u origin main
