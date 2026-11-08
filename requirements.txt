@@ -1,0 +1,1 @@
+python-telegram-bot[job-queue]&gt;=20.0 dateparser&gt;=1.1.8 python-dotenv&gt;=1.0.0 pytz&gt;=2023.3
