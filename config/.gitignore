@@ -2,3 +2,9 @@
 venv/
 __pycache__
 *.pyc
+git init 
+git add . 
+git commit -m "Primo commit - Travel Bot" 
+git branch -M main 
+git remote add origin [suspicious link removed] 
+git push -u origin main
